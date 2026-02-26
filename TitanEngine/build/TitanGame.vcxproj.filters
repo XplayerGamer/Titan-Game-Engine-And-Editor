@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEngine\example\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEngine\example\ExampleGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEngine\example\ExampleGame.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{20FB9787-EC70-3746-B83F-26B2B8EF0733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{34EA365A-46A8-3CB4-965A-600CA235D3DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

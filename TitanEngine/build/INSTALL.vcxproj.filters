@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEngine\build\CMakeFiles\af0f49415578128c54fc9a68fb44fff6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0D5868DF-D31D-385C-8953-210B711EA5D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
