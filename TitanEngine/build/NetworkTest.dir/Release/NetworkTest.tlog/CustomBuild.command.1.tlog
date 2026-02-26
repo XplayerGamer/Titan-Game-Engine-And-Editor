@@ -1,0 +1,10 @@
+^E:\PRIE NAUJO PC\KURINIAI PIJAUS\GAME\GAME ENGINE\TITANENGINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/prie naujo pc/Kuriniai Pijaus/game/GAME ENGINE/TitanEngine" "-BE:/prie naujo pc/Kuriniai Pijaus/game/GAME ENGINE/TitanEngine/build" --check-stamp-file "E:/prie naujo pc/Kuriniai Pijaus/game/GAME ENGINE/TitanEngine/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
