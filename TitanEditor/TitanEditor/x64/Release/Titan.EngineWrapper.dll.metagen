@@ -1,0 +1,28 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Titan.EngineWrapper, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TitanEngineWrapper.EngineWrapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Initialize(): PrivateScope, Public, Static, HideBySig
+    Shutdown(): PrivateScope, Public, Static, HideBySig
+    Update(Single): PrivateScope, Public, HideBySig
+    InitializePhysics(): PrivateScope, Public, HideBySig
+    UpdatePhysics(Single): PrivateScope, Public, HideBySig
+    InitializeRenderer(IntPtr, Int32, Int32): PrivateScope, Public, HideBySig
+    RenderFrame(): PrivateScope, Public, HideBySig
+    SetCameraPosition(Single, Single, Single): PrivateScope, Public, HideBySig
+    SetCameraRotation(Single, Single): PrivateScope, Public, HideBySig
+    CreateEntity(): PrivateScope, Public, HideBySig
+    DestroyEntity(Int32): PrivateScope, Public, HideBySig
+    SetEntityPosition(Int32, Single, Single, Single): PrivateScope, Public, HideBySig
+    GetEntityPosition(Int32, Single&(Out), Single&(Out), Single&(Out)): PrivateScope, Public, HideBySig
+    LoadScript(String): PrivateScope, Public, HideBySig
+    ExecuteScript(String): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
