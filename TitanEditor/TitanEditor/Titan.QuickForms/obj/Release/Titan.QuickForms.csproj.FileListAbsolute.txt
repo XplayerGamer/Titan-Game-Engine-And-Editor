@@ -1,0 +1,8 @@
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\bin\Release\Titan.QuickForms.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\bin\Release\Titan.QuickForms.pdb
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\obj\Release\Titan.QuickForms.csproj.AssemblyReference.cache
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\obj\Release\Titan.QuickForms.QuickForm.resources
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\obj\Release\Titan.QuickForms.csproj.GenerateResource.cache
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\obj\Release\Titan.QuickForms.csproj.CoreCompileInputs.cache
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\obj\Release\Titan.QuickForms.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.QuickForms\obj\Release\Titan.QuickForms.pdb

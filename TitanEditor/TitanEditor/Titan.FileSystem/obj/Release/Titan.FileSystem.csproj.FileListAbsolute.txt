@@ -1,0 +1,13 @@
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Titan.FileSystem.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Titan.FileSystem.pdb
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Titan.Packages.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Titan.Common.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Newtonsoft.Json.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\LogicAndTrick.Oy.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Titan.Packages.pdb
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\bin\Release\Titan.Common.pdb
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\obj\Release\Titan.FileSystem.csproj.AssemblyReference.cache
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\obj\Release\Titan.FileSystem.csproj.CoreCompileInputs.cache
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\obj\Release\Titan.FileSystem.dll
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\obj\Release\Titan.FileSystem.pdb
+E:\prie naujo pc\Kuriniai Pijaus\game\GAME ENGINE\TitanEditor\TitanEditor\Titan.FileSystem\obj\Release\Titan.FileSystem.csproj.CopyComplete
