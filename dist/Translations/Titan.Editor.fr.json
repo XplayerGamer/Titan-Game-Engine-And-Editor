@@ -1,0 +1,12 @@
+{
+    "@Meta": {
+        "Base": "Titan.Editor",
+        "Language": "fr",
+        "LanguageDescription": "Fran?ais / French",
+        "Inherit": "en"
+    },
+    "ShellSetup": {
+        "Title": "Editeur Titan"
+    }
+}
+

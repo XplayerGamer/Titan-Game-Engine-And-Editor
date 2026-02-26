@@ -1,0 +1,35 @@
+{
+    "@Meta": {
+        "Base": "Titan.Editor", 
+        "Language": "it",
+        "LanguageDescription":  "Italiano / Italian",
+        "Inherit": "en"
+    },
+    "@Settings": {
+        "UpdateChecker": {
+            "CheckForUpdates": "Controlla aggiornamenti all'avvio"
+        }
+    },
+    "ShellSetup": {
+        "Title": "Titan Editor"
+    },
+    "Update": {
+        "UpdaterForm": {
+            "Title": "Aggiornamento disponibile!",
+            "UpdateAvailable": "? disponibile una nuova versione di Titan!\nVuoi scaricarla adesso?",
+            "Downloading": "Sto scaricando..."
+        },
+        "CheckForUpdates": {
+            "Name": "Controlla aggiornamenti",
+            "Details": "Controlla online per aggiornamenti",
+            "NoUpdatesTitle": "Nessun aggiornamento trovato",
+            "NoUpdatesMessage": "Questa versione di Titan ? attualmente aggiornata",
+            "UpdateErrorTitle": "Errore di aggiornamento",
+            "UpdateErrorMessage": "C'? stato un problema nello scaricare i dettagli dell'aggiornamento, per favore riprova pi? tardi o visita il sito web di Titan e controlla la nuova versione."
+        },
+        "UpdateChecker": {
+            "UpdateDownloadedTitle": "L'aggiornamento ? pronto per essere installato",
+            "UpdateDownloadedMessage": "Un aggiornamento ? stato scaricato, vuoi scaricarlo ora? Selezionando 'No' verr? installato pi? tardi."
+        }
+    }
+}
